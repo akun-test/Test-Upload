@@ -3,10 +3,10 @@
     'name': "Modul Mahal Buatan Orang Cilengsi",
 
     'summary': """
-        ini modul cuma nambah 1 field doang""",
+        ini modul fresh 11""",
 
     'description': """
-        ini modul cuma nambah 1 field doang. kenapa mahal? karena di buat oleh orang cilengsi
+        ini modul ga ada apa apanya, tapi mahal. kenapa mahal? karena di buat oleh orang cilengsi
     """,
 
     'author': "PT. PT",
